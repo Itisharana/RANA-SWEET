@@ -211,42 +211,80 @@ pytest
 ## 📸 Screenshots of Application
 
 LOGIN PAGE:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fecfbf30-794f-43d6-a5f4-1fffbad2229d" />
 
+
+
 REGISTER PAGE:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57bf6464-ded5-441a-b964-d68b32ecd84f" />
 
+
+
 HOME PAGE:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93cf82ad-29b3-4ddd-8af9-d669c0574bf2" />
 
+
+
 SWEETS OVERVIEW:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b60c9d9-591e-4c40-ab62-da0de4423bab" />
 
+
+
 YOUR CART:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9f4573b-b0e5-4048-974f-df859af55271" />
 
+
+
 PAYMENT PAGE:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c40deb08-fb9e-4d79-b277-21f9e51adc15" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a60508a4-8978-4e27-a74a-f56de5d0d229" />
 
+
+
 ORDER SUCCESS:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6264958b-6ff1-4c6a-9f53-f8b53a547b25" />
 
 
 
+
+
+
+
+
+
 ADMIN LOGIN PAGE:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/809d58c8-3c10-4b2c-930b-b96740f0a94c" />
 
+
+
 ADMIN DASHBOARD:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f9d5961-6dcd-48eb-af9e-ea7029e13934" />
 
+
+
 ADD NEW ITEM:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7830ee6-44cf-4113-ac5d-df62df8d1eb4" />
 
+
+
 ORDER DETAILS:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bb81933-5819-48b6-adb1-20726219fbc0" />
 
+
+
 INVENTORY INSIGHTS:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a367d19-d92d-428f-91d9-09927316b0f0" />
 
 
