@@ -314,7 +314,7 @@ AI tools significantly improved my productivity by reducing development time and
 
 
 
-## 🚀 Live Deployment (Optional – Bonus)
+## 🚀 Live Deployment 
 
 🌐 Live Application:
     https://sweet-shop-management-system-neon.vercel.app/
@@ -327,6 +327,6 @@ The Sweet Shop Management System is a practical full-stack application showcasin
 
 
 
-## Designed by;
-   Itisha Rana
+## Designed by:
+   Author : Itisha Rana 
    Co-author :  Orchids, Gemini, Chatgpt
