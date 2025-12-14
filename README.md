@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System [RANA SWEETS]
+#  Sweet Shop Management System [RANA SWEETS]
 
 ## 📌 Project Overview
 
